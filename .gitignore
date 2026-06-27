@@ -1,0 +1,25 @@
+# Dependencies
+node_modules/
+.gradle/
+.dart_tool/
+
+# Build outputs
+build/
+dist/
+out/
+
+# IDE
+.idea/
+.vscode/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Flutter
+.flutter-plugins
+.flutter-plugins-dependencies
+
+# APK outputs
+*.apk
+*.aab
